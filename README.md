@@ -31,5 +31,6 @@ I am a Full Stack Developer based in NYC.
 :star: My Stats :
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafabin&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&hide=html)]
 
 </div>
