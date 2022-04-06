@@ -35,6 +35,7 @@ I am a Full Stack Developer based in NYC.
 </div>
 <div>
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&hide=html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </div>
