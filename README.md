@@ -32,12 +32,10 @@ I am a Full Stack Developer based in NYC.
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafabin&show_icons=true&theme=dark)
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html&theme=dark)
   
 </div>
 <div>
-&nbsp;
-
-
-  
-</div>
