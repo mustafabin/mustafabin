@@ -10,7 +10,7 @@ I am a Full Stack Developer based in NYC.
 - :brain: Always Learning
 - :zap: I love to workout and create things.
 
-- :mailbox:How to reach me:<a href="mailto: mbin828@gmail.com"><img src="https://img.shields.io/badge/mbin828@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /> </a> <a href="https://www.linkedin.com/in/mustafa-binalhag-5080bb157/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- :mailbox:How to reach me:<a href="mailto: mbin828@gmail.com"><img src="https://img.shields.io/badge/mbin828@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /> </a> <a href="https://www.linkedin.com/in/mustafabinalhag/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a/>
 :hammer_and_wrench: Languages and Frameworks :
 
