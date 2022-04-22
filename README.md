@@ -37,4 +37,4 @@ I am a Full Stack Developer based in NYC.
 &nbsp;
 &nbsp;
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html,shell&theme=dark)
