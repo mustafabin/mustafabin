@@ -49,20 +49,3 @@ I am a Full Stack Developer based in NYC.
 &nbsp;
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html&theme=dark)
-  
-</div>
-<div>" title="postgresql" **alt="postgresql" width="40" height="40"/>&nbsp;
-
-</div>
-<div>
-:star: My Stats :
-
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafabin&show_icons=true&theme=dark)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html&theme=dark)
-  
-</div>
-<div>
