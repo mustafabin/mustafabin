@@ -32,11 +32,12 @@ I am a Full Stack Developer based in NYC.
 <div>
 :star: My Stats :
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabin&theme=monokai)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html,shell&theme=dark)
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabin&theme=monokai)
 
