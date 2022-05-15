@@ -38,5 +38,5 @@ I am a Full Stack Developer based in NYC.
 &nbsp;
 &nbsp;
 &nbsp;
-![Mustafa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabin&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabin&theme=monokai)
 
