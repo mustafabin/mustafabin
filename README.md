@@ -31,10 +31,12 @@ I am a Full Stack Developer based in NYC.
 </div>
 <div>
 :star: My Stats :
-
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafabin&show_icons=true&theme=dark)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html,shell&theme=dark)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+![Mustafa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabin&theme=monokai)
+
