@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20Im%20Mustafa%20Binalhag%20👋&width=400&height=170)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20Im%20Mustafa%20Binalhag%20👋&width=400&height=100)](https://github.com/Akshay090/svg-banners)
 
   
 </div>
