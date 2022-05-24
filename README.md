@@ -1,8 +1,6 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey,%20👋%20Im%20Mustafa%20Binalhag20&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-  <h1>
-  Hey  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Im Mustafa Binalhag
-</h1>
+  
 </div>
 :man_technologist: About Me :
 I am a Full Stack Developer based in NYC.
