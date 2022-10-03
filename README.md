@@ -21,6 +21,6 @@ I am a Full Stack Developer based in NYC.
 &nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafabin&theme=monokai)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabin&layout=compact&hide=html,shell,css,javascript&theme=dark)
 
 
